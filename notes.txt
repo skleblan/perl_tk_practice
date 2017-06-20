@@ -1,0 +1,26 @@
+hello world
+basic
+
+hello world 02
+same as original but uses a message box
+pack
+
+xtra entry
+also uses message box
+
+widgets 01
+label, entry (aka single textbox), button
+pack
+
+widgets 02
++ frame, scale, text (area)(aka multiline textbox), scrollbar
+uses insert method on textarea
+grid
+
+widgets 03
++ checkbutton (aka checkbox), radiobutton
+grid
+
+widgets 04
++ listbox
+grid
